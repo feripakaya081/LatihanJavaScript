@@ -1,7 +1,1 @@
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
-"# LatihanJavaScript" 
+"Ini file pertama saya di GitHub"
